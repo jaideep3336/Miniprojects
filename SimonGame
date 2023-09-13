@@ -1,0 +1,3 @@
+Description: This project involved building a Simon game that utilized four squares with different colors. Upon pressing any key, the game begins, and a square blink randomly. The player then needs to click the correct square, and the same sequence repeats, progressively increasing in difficulty. The game utilizes arrays to store the colors, Boolean data types to evaluate conditions, and numerous functions at different stages. The game employs arithmetic operators, loops, function parameters, and set timeout functions. Additionally, the game uses the "this" keyword and objects to function properly.
+Technology: HTML, CSS and JAVASCRIPT
+URL: https://github.com/jaideep3336/SimonGame_js

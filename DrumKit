@@ -1,0 +1,3 @@
+Description: This project involved building a drum kit using JavaScript. The game included different keys, each set with a unique sound that plays when the user clicks a button or types a letter on the keyboard. Event Listeners were utilized to trigger an event upon use, and switch(key) cases were \implemented to set a specific sound for each appropriate key. Class-lists were added and removed according to the stage, and a set Timeout function was utilized to blink the button for a desired time. Overall, this drum kit game was built using JavaScript.
+Technology: HTML CSS and JAVASCRIPT
+URL: https://github.com/jaideep3336/Drumkit_js
